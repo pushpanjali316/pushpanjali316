@@ -50,7 +50,7 @@ Currently focused on **machine learning pipelines**, satellite data analysis, an
 
 ## 🌟 Featured Projects
 
-### 🛡️ [Sentinel AI](https://github.com/pushpanjali316/sentinel-ai) — Cyber Threat Monitor · [Live Demo ↗](https://sentinel-ai-cyber-defense-zero-day.vercel.app/)
+### 🛡️ [Sentinel AI](https://github.com/pushpanjali316/sentinel-ai) - Cyber Threat Monitor · [Live Demo ↗](https://sentinel-ai-cyber-defense-zero-day.vercel.app/)
 > Real-time log processing pipeline with LLM-powered alert explanations, live threat dashboard & geo-heatmaps
 
 - Ingests **1000+ log events per minute** through a modular backend
@@ -60,7 +60,7 @@ Currently focused on **machine learning pipelines**, satellite data analysis, an
 
 ---
 
-### 🌾 [Ajrasakha](https://github.com/pushpanjali316/Ajrasakha) — Crop Health Monitor
+### 🌾 [Ajrasakha](https://github.com/pushpanjali316/Ajrasakha) - Crop Health Monitor
 > Satellite-based NDVI monitoring for real-time crop stress detection across 500+ hectares
 
 - **10-day rolling NDVI trend** flags crop stress **2–3 days before visible damage** appears
@@ -90,7 +90,7 @@ Currently focused on **machine learning pipelines**, satellite data analysis, an
 
 ## 💼 Experience
 
-**AI Intern @ VLED Labs, IIT Ropar · ANNAM.AI** *(May 2026 – Present)*
+**AI Intern @ VLED Labs, IIT Ropar · ANNAM.AI** *(May 2026 - Present)*
 - Completed **2 ML projects** under structured mentorship - problem framing, algorithm selection, and deployment
 - Applied Bayes' theorem, WCSS Elbow Method, and PCA as core mathematical decisions
 - Studying Reinforcement Learning fundamentals: reward signals, policy optimisation & agent-environment loops
