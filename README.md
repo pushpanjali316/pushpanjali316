@@ -19,13 +19,11 @@
 
 ## 🚀 About Me
 
-I'm a CS student passionate about building **ML-powered systems** that solve real-world problems. I've contributed to AI/ML research at **IIT Ropar** under Prof. Sudarshan Iyengar, shipped production MERN stack applications, and actively contribute to open source via **GSSoC**.
+I'm a CS student passionate about building **ML-powered systems** that solve real-world problems. I've contributed to full-stack application development at **IIT Ropar** under Prof. Sudarshan Iyengar, shipped production MERN stack applications, and continuously expanding my skills in AI and software engineering..
 
 Currently focused on **machine learning pipelines**, satellite data analysis, and real-time threat detection systems.
 
-- 🔭 Building supervised ML pipelines for crop health monitoring & cyber threat detection
 - 🏅 NPTEL Elite + Gold Certified · **Top 2%**
-- 💡 Open Source Contributor @ **GSSoC**
 - 📍 Guntur, Andhra Pradesh
 
 ---
@@ -89,11 +87,6 @@ Currently focused on **machine learning pipelines**, satellite data analysis, an
 ---
 
 ## 💼 Experience
-
-**AI Intern @ VLED Labs, IIT Ropar · ANNAM.AI** *(May 2026 - Present)*
-- Completed **2 ML projects** under structured mentorship - problem framing, algorithm selection, and deployment
-- Applied Bayes' theorem, WCSS Elbow Method, and PCA as core mathematical decisions
-- Studying Reinforcement Learning fundamentals: reward signals, policy optimisation & agent-environment loops
 
 **Full Stack Developer Intern @ IIT Ropar** *(Jan 2026 – Mar 2026 · under Prof. Sudarshan Iyengar)*
 - Built a MERN crop health monitoring system with live NDVI data; flagged crop stress **2-3 days before visible damage**
