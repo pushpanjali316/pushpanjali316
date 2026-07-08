@@ -60,7 +60,7 @@ Currently focused on **machine learning pipelines**, satellite data analysis, an
 
 ---
 
-### 🌾 [Ajrasakha](https://github.com/pushpanjali316/Ajrasakha) - Crop Health Monitor
+### 🌾 [Ajrasakha](https://github.com/pushpanjali316/Ajrasakha_AFarmerFriend) - Crop Health Monitor
 > Satellite-based NDVI monitoring for real-time crop stress detection across 500+ hectares
 
 - **10-day rolling NDVI trend** flags crop stress **2–3 days before visible damage** appears
