@@ -48,16 +48,6 @@ Currently focused on **machine learning pipelines**, satellite data analysis, an
 
 ## 🌟 Featured Projects
 
-### 🛡️ [Sentinel AI](https://github.com/pushpanjali316/sentinel-ai) - Cyber Threat Monitor · [Live Demo ↗](https://sentinel-ai-cyber-defense-zero-day.vercel.app/)
-> Real-time log processing pipeline with LLM-powered alert explanations, live threat dashboard & geo-heatmaps
-
-- Ingests **1000+ log events per minute** through a modular backend
-- Achieved **81% detection precision** on brute-force, port scan & geo-anomaly patterns
-- **LangChain layer** converts raw alert payloads into readable plain-English summaries
-- **Stack:** Python · LangChain · LLM API · React · Node.js · MongoDB
-
----
-
 ### 🌾 [Ajrasakha](https://github.com/pushpanjali316/Ajrasakha_AFarmerFriend) - Crop Health Monitor · [Live Demo ↗](https://ajrasakha-a-farmerfriend.vercel.app/)
 > Satellite-based NDVI monitoring for real-time crop stress detection across 500+ hectares
 
